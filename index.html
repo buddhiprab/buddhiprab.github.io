@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>jQuery UI Autocomplete - Custom data and display</title>
+    <title>Pharmacy List - Srilanka</title>
     <style>
         #project-label {
             display: block;
@@ -15,8 +15,12 @@
             padding: 0;
         }
     </style>
-    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script
+            src="https://code.jquery.com/jquery-1.12.4.min.js"
+            integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
+            crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <script>
         $(function() {
             var projects =
@@ -11570,19 +11574,20 @@
                 response(matches);
             }
 
-            $( "#project" ).autocomplete({
+            $( "#searchbox" ).autocomplete({
                 minLength: 0,
                 source: lightwell,
                 focus: function( event, ui ) {
-                    $( "#project" ).val( ui.item.label );
+                    // $( "#searchbox" ).val( ui.item.label );
                     return false;
                 },
                 select: function( event, ui ) {
-                    $( "#project" ).val( ui.item.label );
-                    $( "#project-id" ).val( ui.item["District"] ); // is this needed?
+                    // $( "#searchbox" ).val( ui.item.label );
                     $( "#project-title" ).html( ui.item["MOH Area"] );
                     $( "#project-description" ).html( ui.item["Name of the Pharmacy"] );
                     $( "#project-other" ).html( ui.item["Contact No."] );
+                    $( "#project-whatsapp" ).html( ui.item["Whatsapp No."] );
+                    $( "#project-address" ).html( ui.item["Address"] );
 
                     return false;
                 }
@@ -11607,13 +11612,14 @@
 
 <div id="project-label">Search Pharmacy In SriLanka (Deliver Your Medicine in COVID-19 Curfew time)</div>
 
-<input id="project" />
+<input id="searchbox" />
 
-<input type="hidden" id="project-id" />
 
 <p id="project-title"></p>
 <p id="project-description"></p>
 <p id="project-other"></p>
+<p id="project-whatsapp"></p>
+<p id="project-address"></p>
 
 
 </body>

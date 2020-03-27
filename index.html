@@ -21,13 +21,19 @@
             margin: 0;
             padding: 0;
         }
+        .ui-autocomplete{
+            padding-left: 0;
+        }
         .ui-autocomplete div{
             display: block;
             cursor: pointer;
             background-color: white;
         }
         #full-list-wrap{
-            margin-top: 300px;
+            margin-top: 30px;
+        }
+        #selected-one{
+            display: none;
         }
     </style>
 </head>
@@ -40,7 +46,7 @@
 
             <input id="searchbox" class="col-sm-12" type="text" placeholder="Start Typing..."/>
 
-            <div class="card" style="width: 100%;margin-top: 20px">
+            <div id="selected-one" class="card" style="width: 100%;margin-top: 20px">
                 <div class="card-body">
                     <h5 id="project-district" class="card-title"></h5>
                     <h6 id="project-title" class="card-subtitle mb-2 text-muted"></h6>
@@ -11622,7 +11628,7 @@
                 return false;
             },
             select: function (event, ui) {
-                // $( "#searchbox" ).val( ui.item.label );
+                $("#selected-one").show();
                 $("#project-district").html(ui.item["District"]);
                 $("#project-title").html(ui.item["MOH Area"]);
                 $("#project-description").html(ui.item["Name of the Pharmacy"]);
@@ -11635,7 +11641,7 @@
         })
 
             .data("ui-autocomplete")._renderItem = function (ul, item) {
-            return $("<div>")
+            return $("<div class='col-sm-12'>")
                 .append("<div>"
                     + item["District"] +
                     "<br><span style='font-size: 80%;'>MOH Area: " + item["MOH Area"] + "</span>" +

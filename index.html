@@ -11590,10 +11590,13 @@
 
                 .data( "ui-autocomplete" )._renderItem = function( ul, item ) {
                 return $( "<li>" )
-                    .append( "<a>" + item["District"] +
-                        "<br><span style='font-size: 80%;'>Desc: " + item["MOH Area"] + "</span>" +
-                        "<br><span style='font-size: 80%;'>Desc: " + item["Name of the Pharmacy"] + "</span>" +
-                        "<br><span style='font-size: 60%;'>Other: " + item["Contact No."] + "</span></a>" )
+                    .append( "<a>"
+                        + item["District"] +
+                        "<br><span style='font-size: 80%;'>MOH Area: " + item["MOH Area"] + "</span>" +
+                        "<br><span style='font-size: 80%;'>Pharmacy: " + item["Name of the Pharmacy"] + "</span>" +
+                        "<br><span style='font-size: 60%;'>Telephone: " + item["Contact No."] + "</span>" +
+                        "<br><span style='font-size: 60%;'>Telephone: " + item["Contact No."] + "</span>" +
+                        "</a>" )
                     .appendTo( ul );
             };
         });

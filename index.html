@@ -40,15 +40,16 @@
 
             <input id="searchbox" class="col-sm-12" type="text" placeholder="Start Typing..."/>
 
-            <div>
-                <span></span>
-                <p id="project-district"></p>
-                <span></span>
-                <p id="project-title"></p>
-                <p id="project-description"></p>
-                <p id="project-tele"></p>
-                <p id="project-whatsapp"></p>
-                <p id="project-address"></p>
+            <div class="card" style="width: 100%;margin-top: 20px">
+                <div class="card-body">
+                    <h5 id="project-district" class="card-title"></h5>
+                    <h6 id="project-title" class="card-subtitle mb-2 text-muted"></h6>
+                    <p id="project-description" class="card-text"></p>
+                    <p id="project-tele" class="card-text"></p>
+                    <p id="project-whatsapp" class="card-text"></p>
+                    <p id="project-address" class="card-text"></p>
+
+                </div>
             </div>
         </div>
     </div>
@@ -11625,7 +11626,7 @@
                 $("#project-district").html(ui.item["District"]);
                 $("#project-title").html(ui.item["MOH Area"]);
                 $("#project-description").html(ui.item["Name of the Pharmacy"]);
-                $("#project-tele").html("<a href=\"tel:" + ui.item["Contact No."] + "\">" + ui.item["Contact No."] + "</a>");
+                $("#project-tele").html("<a class='card-link' href=\"tel:" + ui.item["Contact No."] + "\">" + ui.item["Contact No."] + "</a>");
                 $("#project-whatsapp").html(ui.item["Whatsapp No."]);
                 $("#project-address").html(ui.item["Address"]);
 

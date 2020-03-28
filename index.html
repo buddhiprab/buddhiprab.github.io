@@ -46,24 +46,29 @@
             padding-bottom: 2px;
             margin: 0;
         }
+        .search{
+            padding-top: 5px;
+            padding-bottom: 5px;
+            margin-top: 10px;
+        }
     </style>
 </head>
 <body>
 <div class="container">
     <div class="row">
         <div class="col-sm-12 col-md-12">
-            <h4>Find My Pharmacy</h4>
+            <h4>Find My Pharmacy - ෆාමසිය සොයාගන්න</h4>
             <h6>(Deliver Your Medicine in COVID-19 Curfew time)</h6>
 
-            <input id="searchbox" class="col-sm-12" type="text" placeholder="Start Typing..."/>
+            <input id="searchbox" class="col-sm-12 search" type="text" placeholder="Start Typing..."/>
 
             <div id="selected-one" class="card" style="width: 100%;margin-top: 20px">
                 <div class="card-body">
                     <h5 id="project-district" class="card-title"></h5>
                     <h6 id="project-title" class="card-subtitle mb-2 text-muted"></h6>
                     <p id="project-description" class="card-text"></p>
-                    <p id="project-tele" class="card-text"></p>
-                    <p id="project-whatsapp" class="card-text"></p>
+                    <div><span>Telephone: </span><span class="card-text" id="project-tele"></span></div>
+                    <div><span>WhatsApp: </span><span class="card-text" id="project-whatsapp"></span></div>
                     <p id="project-address" class="card-text"></p>
 
                 </div>

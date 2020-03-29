@@ -56,6 +56,12 @@
             margin-top: 10px;
             color: #4CAF50;
         }
+        .head-sub{
+            font-size: 22px;
+            padding-bottom: 6px;
+            display: inline-block;
+            margin-right: 10px;
+        }
     </style>
 </head>
 <body>
@@ -83,7 +89,17 @@
     </div>
     <div id="full-list-wrap">
         <div class="row" id="full-list">
-            <div class="col-sm-12"><h5>Complete List</h5></div>
+            <div class="col-sm-12">
+                <span class="head-sub">Complete List</span>
+                <div class="btn-group">
+                    <button id="dropdown-btn" class="btn btn-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Filter by district
+                    </button>
+                    <div class="dropdown-menu">
+                        <a id="district-all" class="dropdown-item all-itm" href="#">All</a>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -95,9 +111,11 @@
         integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ="
         crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 <script>
     $(function () {
-        var projects = [
+        var pharmacies = [
             {
                 "1": "2",
                 "No": "1",
@@ -11608,15 +11626,65 @@
             }
         ];
 
-        $.each(projects, function( index, item ) {
-            $("#full-list").append("<div class=\"col-sm-12 col-md-6 full-list-item\">"
-                + item["District"] +
-                "<br><span style='font-size: 80%;'>" + item["MOH Area"] + "</span>" +
-                "<br><span style='font-size: 80%;'>" + item["Name of the Pharmacy"] + "</span>" +
-                "<br><span style='font-size: 60%;'>Telephone: <a class='card-link' href=\"tel:" + item["Contact No."] + "\">" + item["Contact No."] + "</a></span>" +
-                "<br><span style='font-size: 60%;'>WhatsApp: " + item["Whatsapp No."] + "</span>" +
-                "<br><span style='font-size: 60%;'>Viber: " + item["Viber No."] + "</span>" +
-                "</div>");
+        var districts = {};
+        function appendCompleteListItem(item){
+            return "<div class=\"col-sm-6 col-md-6 full-list-item\">"
+            + item["District"] +
+            "<br><span style='font-size: 80%;'>" + item["MOH Area"] + "</span>" +
+            "<br><span style='font-size: 80%;'>" + item["Name of the Pharmacy"] + "</span>" +
+            "<br><span style='font-size: 60%;'>Telephone: <a class='card-link' href=\"tel:" + item["Contact No."] + "\">" + item["Contact No."] + "</a></span>" +
+            "<br><span style='font-size: 60%;'>WhatsApp: " + item["Whatsapp No."] + "</span>" +
+            "<br><span style='font-size: 60%;'>Viber: " + item["Viber No."] + "</span>" +
+            "</div>";
+        }
+        function showDistrictItems(district){
+            $(".full-list-item").remove();
+            if(district==="All"){
+                showFullList();
+            }else{
+                $.each(districts[district], function( index, item ) {
+                    $("#full-list").append(appendCompleteListItem(item));
+                });
+            }
+        }
+
+        function showFullList(){
+            $.each(pharmacies, function( index, item ) {
+                $("#full-list").append(appendCompleteListItem(item));
+            });
+        }
+
+        function createDistrictsObject(){
+            $.each(pharmacies, function( index, item ) {
+                if (!districts.hasOwnProperty(item["District"])) {
+                    districts[item["District"]] = [];
+                    districts[item["District"]].push(item);
+                } else {
+                    districts[item["District"]].push(item);
+                }
+            });
+        }
+
+        function fillDistrictsDropDown() {
+            for (var key in districts) {
+                $("#district-all").after("<a id='"+key+"' class='dropdown-item' href='#'>"+key+"</a>");
+            }
+        }
+
+        showFullList();
+        createDistrictsObject();
+        console.log(districts);
+        fillDistrictsDropDown();
+
+
+        $(".dropdown-menu").on('click', 'a', function(e){
+            if ($(".dropdown-menu").prop("disabled")) return;
+            var txt = $(this).text();
+            $("#dropdown-btn").text(txt);
+            console.log(txt);
+            $(".dropdown-menu").prop("disabled", true);
+            setTimeout("$('.dropdown-menu').prop('disabled', false);", 1000);
+            showDistrictItems(txt);
         });
 
         function lightwell(request, response) {
@@ -11631,8 +11699,8 @@
                 return;
             }
 
-            for (i = 0, l = projects.length; i < l; i++) {
-                obj = projects[i];
+            for (i = 0, l = pharmacies.length; i < l; i++) {
+                obj = pharmacies[i];
                 if (hasMatch(obj["District"]) || hasMatch(obj["MOH Area"]) || hasMatch(obj["Name of the Pharmacy"])) {
                     matches.push(obj);
                 }

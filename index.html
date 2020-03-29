@@ -73,6 +73,7 @@
                     <p id="project-description" class="card-text"></p>
                     <div><span>Telephone: </span><span class="card-text" id="project-tele"></span></div>
                     <div><span>WhatsApp: </span><span class="card-text" id="project-whatsapp"></span></div>
+                    <div><span>Viber: </span><span class="card-text" id="project-viber"></span></div>
                     <p id="project-address" class="card-text"></p>
 
                 </div>
@@ -11613,6 +11614,7 @@
                 "<br><span style='font-size: 80%;'>" + item["Name of the Pharmacy"] + "</span>" +
                 "<br><span style='font-size: 60%;'>Telephone: <a class='card-link' href=\"tel:" + item["Contact No."] + "\">" + item["Contact No."] + "</a></span>" +
                 "<br><span style='font-size: 60%;'>WhatsApp: " + item["Whatsapp No."] + "</span>" +
+                "<br><span style='font-size: 60%;'>Viber: " + item["Viber No."] + "</span>" +
                 "</div>");
         });
 
@@ -11654,6 +11656,7 @@
                 $("#project-description").html(ui.item["Name of the Pharmacy"]);
                 $("#project-tele").html("<a class='card-link' href=\"tel:" + ui.item["Contact No."] + "\">" + ui.item["Contact No."] + "</a>");
                 $("#project-whatsapp").html(ui.item["Whatsapp No."]);
+                $("#project-viber").html(ui.item["Viber No."]);
                 $("#project-address").html(ui.item["Address"]);
 
                 return false;

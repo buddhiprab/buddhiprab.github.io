@@ -45,6 +45,7 @@
             padding-top: 12px;
             padding-bottom: 2px;
             margin: 0;
+            display: inline-block;
         }
         .search{
             padding-top: 5px;
@@ -11666,8 +11667,7 @@
             .data("ui-autocomplete")._renderItem = function (ul, item) {
             return $("<div class='col-sm-12'>")
                 .append("<div>"
-                    + "<div><h6 class='sug-head'>"+item["District"]+"</h6></div>" +
-                    "<div style='font-size: 90%;'>" + item["MOH Area"] + "</div>" +
+                    + "<div><h6 class='sug-head'>"+item["District"]+"</h6>, <h6 class='sug-head' style='font-size: 90%;'>" + item["MOH Area"] + "</h6>" +
                     "<div style='font-size: 80%;'>" + item["Name of the Pharmacy"] + "</div>" +
                     "<div style='font-size: 60%;'>Telephone: " + item["Contact No."] + "</div>" +
                     "<div style='font-size: 60%;'>WhatsApp: " + item["Whatsapp No."] + "</div>" +

@@ -1,0 +1,1492 @@
+[
+  {
+    "District": "Ampara",
+    "Outlet": "FC Ampara",
+    "Contact Number": "063 222 2372"
+  },
+  {
+    "District": "Ampara",
+    "Outlet": "FC Akkaraipaththu",
+    "Contact Number": "067 227 9415"
+  },
+  {
+    "District": "Ampara",
+    "Outlet": "FC Kalmunei",
+    "Contact Number": "067 222 5520"
+  },
+  {
+    "District": "Ampara",
+    "Outlet": "FC Pothuvil",
+    "Contact Number": "063 205 0805"
+  },
+  {
+    "District": "Ampara",
+    "Outlet": "FC Samanthurai",
+    "Contact Number": "067 226 1478"
+  },
+  {
+    "District": "Anuradhapura",
+    "Outlet": "FC Ipologama",
+    "Contact Number": "025-2262000"
+  },
+  {
+    "District": "Anuradhapura",
+    "Outlet": "FC Anuradhapura",
+    "Contact Number": "025-2226044"
+  },
+  {
+    "District": "Anuradhapura",
+    "Outlet": "FC Anuradhapura 2",
+    "Contact Number": "025-2227480"
+  },
+  {
+    "District": "Anuradhapura",
+    "Outlet": "Ex Madawachchiya",
+    "Contact Number": "025-2245100"
+  },
+  {
+    "District": "Anuradhapura",
+    "Outlet": "Ex Kekirawa",
+    "Contact Number": "025-2263793"
+  },
+  {
+    "District": "Badulla",
+    "Outlet": "FC Mahiyanganaya",
+    "Contact Number": "055-2258356"
+  },
+  {
+    "District": "Badulla",
+    "Outlet": "FC Bandarawela",
+    "Contact Number": "057-2222411"
+  },
+  {
+    "District": "Badulla",
+    "Outlet": "FC Badulla",
+    "Contact Number": "055-2224839"
+  },
+  {
+    "District": "Badulla",
+    "Outlet": "FC Welimada",
+    "Contact Number": "057-2244988"
+  },
+  {
+    "District": "Badulla",
+    "Outlet": "FC Bandarawela 2",
+    "Contact Number": "057-2220224"
+  },
+  {
+    "District": "Badulla",
+    "Outlet": "Ex Bindunuwewa",
+    "Contact Number": "057-2221914"
+  },
+  {
+    "District": "Batticaloa",
+    "Outlet": "FC Batticaloa",
+    "Contact Number": "65-222 7680"
+  },
+  {
+    "District": "Batticaloa",
+    "Outlet": "FC Manchanthoduwai",
+    "Contact Number": "065 224 8445"
+  },
+  {
+    "District": "Batticaloa",
+    "Outlet": "FC Batticaloa 2",
+    "Contact Number": "065-222 8819"
+  },
+  {
+    "District": "Batticaloa",
+    "Outlet": "FC Eravur",
+    "Contact Number": "065 224 1506"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Avissawella",
+    "Contact Number": "036 2232661"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Hanwella",
+    "Contact Number": "036 2253555"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Pepiliyana",
+    "Contact Number": "011-2813817"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kottawa",
+    "Contact Number": "011-2783137"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kottawa 2",
+    "Contact Number": "011-2088811"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Homagama",
+    "Contact Number": "011-2891425"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Boralesgamuwa",
+    "Contact Number": "011-2516114"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Bokundara",
+    "Contact Number": "011-2708814"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Homagama 2",
+    "Contact Number": "011-2086507"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Homagama 3",
+    "Contact Number": "011-2086905"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Depanama",
+    "Contact Number": "011-894985"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kohuwala",
+    "Contact Number": "011-2852440"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Malabe",
+    "Contact Number": "011-4401012"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Athurugiriya",
+    "Contact Number": "011-25263352"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Malabe 2",
+    "Contact Number": "011-2413571"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Battaramulla",
+    "Contact Number": "011-2872994"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Ethulkotte",
+    "Contact Number": "011-2863795"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kalapaluwawa",
+    "Contact Number": "011-2794181"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Thalahena",
+    "Contact Number": "011-2741002"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Millennium City",
+    "Contact Number": "011-2078554"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Athurugiriya 2",
+    "Contact Number": "011-2075522"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Bc Katubedda",
+    "Contact Number": "011-2624629"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Rawathawatta",
+    "Contact Number": "011-2656340"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Malabe 03",
+    "Contact Number": "011-2744737"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Dehiwala",
+    "Contact Number": "011-2719956"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Mount Lavinia Stc",
+    "Contact Number": "011-2732597"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Ratmalana",
+    "Contact Number": "011-2719388"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC RATMALANA 2",
+    "Contact Number": "011-2638970"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kohuwala 2",
+    "Contact Number": "011-2768543"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Moratumulla",
+    "Contact Number": "011-2654560"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Piliyandala",
+    "Contact Number": "011-2604931"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kesbewa",
+    "Contact Number": "011-2602666"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Matte oda",
+    "Contact Number": "011-2178420"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Arawwala",
+    "Contact Number": "011-2845677"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kolamunna",
+    "Contact Number": "011-2609780"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Polgasowita",
+    "Contact Number": "011-2600207"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Moratuwa Old Rd",
+    "Contact Number": "011-2642178"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Maharagama",
+    "Contact Number": "011-2851381"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Piliyandala 2",
+    "Contact Number": "011-2615673"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Maharagama 2",
+    "Contact Number": "011-2844700"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Pagoda",
+    "Contact Number": "011-2890836"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kattiya Junction",
+    "Contact Number": "011-2813561"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Nugegoda",
+    "Contact Number": "011-2814994"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Nuge oda 2",
+    "Contact Number": "011-2769420"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Wijerama 2",
+    "Contact Number": "011-2804815"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Welipillawa",
+    "Contact Number": "011-2979240"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Maradana",
+    "Contact Number": "011-2696105"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Grandpass",
+    "Contact Number": "011-2422387"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Glorious Residence",
+    "Contact Number": "011-2445542"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Fort",
+    "Contact Number": "011-2390867"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Koswatte",
+    "Contact Number": "011-2789556"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Rajagiriya 2",
+    "Contact Number": "011-2888056"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Cota Road",
+    "Contact Number": "011-2693284"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kaduwela",
+    "Contact Number": "011-2537967"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kaduwela 02",
+    "Contact Number": "011-2073637"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kolonnawa",
+    "Contact Number": "011-2532882"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Dematagoda",
+    "Contact Number": "011-2697711"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Wellampitiya",
+    "Contact Number": "011-2077129"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Kotikawatta 02",
+    "Contact Number": "011-2072652"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Gothatuwa Idh",
+    "Contact Number": "011-2411345"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Colpetty",
+    "Contact Number": "011-2372123"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Marine Drive",
+    "Contact Number": "011-2575294"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Staples Street",
+    "Contact Number": "011-2326336"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Park Road",
+    "Contact Number": "011-2555568"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Thalawathugoda",
+    "Contact Number": "011-2796169"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Pelawatta 2",
+    "Contact Number": "011-2784447"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Thalapathpiti a",
+    "Contact Number": "011-2799982"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Koswatte 2",
+    "Contact Number": "011-2076630"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Majestic Cit",
+    "Contact Number": "011-2501022"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Nawala",
+    "Contact Number": "011-2806005"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Jawatta",
+    "Contact Number": "011-2552153"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Duplication",
+    "Contact Number": "011-2372662"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Ward Place",
+    "Contact Number": "011-2699493"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Himbutana",
+    "Contact Number": "011-2074563"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Wattala 02",
+    "Contact Number": "011-2985922"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Ctg Piliyandala",
+    "Contact Number": "011-2614233"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Puwakpitiya",
+    "Contact Number": "036-2234336"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Kosgama",
+    "Contact Number": "036-2253262"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "FC Thimbirigasyaya",
+    "Contact Number": "011-2590548"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Habarakada",
+    "Contact Number": "011-2752387"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Siddamulla",
+    "Contact Number": "011-2601136"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Rukmal ama",
+    "Contact Number": "011-2189321"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Arangala",
+    "Contact Number": "011-2185651"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Hokandara",
+    "Contact Number": "011-2742963"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Magammana",
+    "Contact Number": "011-2181335"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Jaya Mawatha",
+    "Contact Number": "011-2531546"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Mulleriyawa",
+    "Contact Number": "011-2157139"
+  },
+  {
+    "District": "Colombo",
+    "Outlet": "Ex Maligawatte 2",
+    "Contact Number": "011-2686413"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "Food Hall - Colombo City Centre",
+    "Contact Number": "011-2083038"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "FC Ambalangoda",
+    "Contact Number": "091-2255155"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "FC Galle",
+    "Contact Number": "091-2233212"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "FC Karapitiya",
+    "Contact Number": "091-2226639"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "Galle 2",
+    "Contact Number": "091-2234995"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "FC Ambalangoda 2",
+    "Contact Number": "091-2254252"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "Ex Balapitiya",
+    "Contact Number": "091-2254033"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "Ex Hikkaduwa",
+    "Contact Number": "091-2275995"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "Ex Unawatuna",
+    "Contact Number": "091-2250541"
+  },
+  {
+    "District": "Galle",
+    "Outlet": "Ex Kurudugahahethekma",
+    "Contact Number": "091-2297370"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Nittambuwa",
+    "Contact Number": "033-2296951"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Miri ama",
+    "Contact Number": "033-2276980"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Thihariya",
+    "Contact Number": "033-2296311"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Nittambuwa 2",
+    "Contact Number": "033-2050103"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Negombo",
+    "Contact Number": "031-2232273"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Seeduwa",
+    "Contact Number": "011-2260201"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Kochchikade",
+    "Contact Number": "031-2274193"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Negombo 2",
+    "Contact Number": "031-2228516"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FcJaela 2",
+    "Contact Number": "011-2244631"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Seeduwa 2",
+    "Contact Number": "011-2252493"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Kurana",
+    "Contact Number": "031-2280647"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Jaela",
+    "Contact Number": "011-2244631"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Ekala",
+    "Contact Number": "011-2071300"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Ragama",
+    "Contact Number": "011-2952513"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Ragama 2",
+    "Contact Number": "011-2967920"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Raddolugama",
+    "Contact Number": "011-2290260"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Ne omb003",
+    "Contact Number": "031- 2281972"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Enderamulla",
+    "Contact Number": "011-2982784"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Kiribathgoda",
+    "Contact Number": "011-2917715"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Kadawatha",
+    "Contact Number": "011-2920161"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Minuwangoda",
+    "Contact Number": "011-2294161"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Kadawatha 2",
+    "Contact Number": "011-2925626"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Weliweriya",
+    "Contact Number": "033-2258770"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Delgoda",
+    "Contact Number": "011-2402021"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Yakkala",
+    "Contact Number": "033-2248872"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Ganemulla",
+    "Contact Number": "033-2265978"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Gampaha 3",
+    "Contact Number": "033-2238877"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Kadawatha 3",
+    "Contact Number": "011-2927524"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Awariwatta",
+    "Contact Number": "011-2257075"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Minuwan oda 02",
+    "Contact Number": "011-2284050"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Ganemulla 02",
+    "Contact Number": "033-2265836"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Elakanda",
+    "Contact Number": "011-2981728"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Peliyagoda",
+    "Contact Number": "011-2949221"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Welisara",
+    "Contact Number": "011-2981393"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Makola",
+    "Contact Number": "011-2964665"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Bandarawatte",
+    "Contact Number": "011-2465195"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Biyagama",
+    "Contact Number": "011-2489870"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Kelaniya",
+    "Contact Number": "011-2905069"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Dalu ama",
+    "Contact Number": "011-2918748"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Pethiyagoda",
+    "Contact Number": "011-2907628"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Kiribathgoda 02",
+    "Contact Number": "011-2984229"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Welisara 2",
+    "Contact Number": "011-2935128"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Wattala",
+    "Contact Number": "011-2945305"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Kandana",
+    "Contact Number": "011-2247841"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Pasyala",
+    "Contact Number": "033-2284960"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Urapola",
+    "Contact Number": "033-2280744"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Katunayake Slaf",
+    "Contact Number": "011-5629760"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "FC Bia Katunayake",
+    "Contact Number": "011-2265089"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Kandana",
+    "Contact Number": "011-2241109"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Bopiti a",
+    "Contact Number": "011-2071026"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Dandugama",
+    "Contact Number": "011-2071468"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Green Road",
+    "Contact Number": "031-2231105"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Lewis Place Negombo",
+    "Contact Number": "031-2272213"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Negombo Y Junction",
+    "Contact Number": "031-2224314"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Dalupotha",
+    "Contact Number": "031-2236990"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Divulapitiya",
+    "Contact Number": "031-2243040"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Veyangoda",
+    "Contact Number": "033-2298200"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Maradagahamulla",
+    "Contact Number": "031-2243833"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Naiwala",
+    "Contact Number": "033-2050091"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Elapitiwala",
+    "Contact Number": "011-2957762"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Hunupitiya",
+    "Contact Number": "011-2943382"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Kirillawala",
+    "Contact Number": "011-2973249"
+  },
+  {
+    "District": "Gampaha",
+    "Outlet": "Ex Pugoda",
+    "Contact Number": "011-2404652"
+  },
+  {
+    "District": "Hambantota",
+    "Outlet": "FC Hambantota",
+    "Contact Number": "047-2222267"
+  },
+  {
+    "District": "Hambantota",
+    "Outlet": "FC Tangalle",
+    "Contact Number": "047-2241656"
+  },
+  {
+    "District": "Hambantota",
+    "Outlet": "FC Thissamaharama",
+    "Contact Number": "047-2239405"
+  },
+  {
+    "District": "Hambantota",
+    "Outlet": "FC Ambalanthota",
+    "Contact Number": "047-2225617"
+  },
+  {
+    "District": "Jaffna",
+    "Outlet": "FC Manippay",
+    "Contact Number": "021-2255356"
+  },
+  {
+    "District": "Jaffna",
+    "Outlet": "FC Kannaththidi",
+    "Contact Number": "021-2220670"
+  },
+  {
+    "District": "Jaffna",
+    "Outlet": "FC Chunnakam",
+    "Contact Number": "021-2242083"
+  },
+  {
+    "District": "Jaffna",
+    "Outlet": "FC Jaffna",
+    "Contact Number": "021-2227703"
+  },
+  {
+    "District": "Jaffna",
+    "Outlet": "Ex Nelliyadi",
+    "Contact Number": "021-2262596"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Bandaragama",
+    "Contact Number": "038-2289288"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Horana",
+    "Contact Number": "034-2265194"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Horana 2",
+    "Contact Number": "034-2262883"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Panadura",
+    "Contact Number": "038-2239279"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Wadduwa",
+    "Contact Number": "038-2285151"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Wadduwa 2",
+    "Contact Number": "038-2294384"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Aluthgama",
+    "Contact Number": "034-2271921"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Beruwela",
+    "Contact Number": "034-2298001"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Katukurunda",
+    "Contact Number": "034-2222523"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Panadura 2",
+    "Contact Number": "038-2241448"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Kalutara",
+    "Contact Number": "034-2221565"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Kalutara North",
+    "Contact Number": "034-2229442"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Dharga Town",
+    "Contact Number": "034-2274117"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Keselwatte",
+    "Contact Number": "038-2287882"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Mathugama",
+    "Contact Number": "034-2247252"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Aluthgama 2",
+    "Contact Number": "034-2293575"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Pallimulla",
+    "Contact Number": "038-2298757"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "FC Katukurunda 02",
+    "Contact Number": "034 2226333"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "Ex Southern Hi hwa",
+    "Contact Number": "034-2241605"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "Ex Alubomulla",
+    "Contact Number": "038-2250422"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "Ex Pokunuwita",
+    "Contact Number": "034-2266788"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "Ex Kalutara Central",
+    "Contact Number": "034-2040475"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "Ex Gonapola",
+    "Contact Number": "034-2257743"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "Ex Maggona",
+    "Contact Number": "034-2298691"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "Ex Ingiriya",
+    "Contact Number": "034-2268855"
+  },
+  {
+    "District": "Kalutara",
+    "Outlet": "EX Moragahahena",
+    "Contact Number": "034-2254041"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC Kandy",
+    "Contact Number": "081-2222101"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC Katugastota",
+    "Contact Number": "081-2203043"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC Pilimatalawa",
+    "Contact Number": "081-2577190"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC Kundasale",
+    "Contact Number": "081-2423944"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC Pallekele",
+    "Contact Number": "081-2424456"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC KATUGASTOTA 2",
+    "Contact Number": "081-2212544"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC Gatambe",
+    "Contact Number": "081-2387287"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC Pilimathalawa 2",
+    "Contact Number": "081-2575255"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC Gampola",
+    "Contact Number": "081 2350872"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "FC Nawala itiya",
+    "Contact Number": "054 2224070"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "Ex Digana",
+    "Contact Number": "081-2375957"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "Ex Eriya ama",
+    "Contact Number": "081-2384630"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "Ex Manikhinna",
+    "Contact Number": "081-2377412"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "Ex Ampitiya",
+    "Contact Number": "081-2242033"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "Ex Wattegama",
+    "Contact Number": "081-2475630"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "Ex Galagedara",
+    "Contact Number": "081-2463347"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "Ex Poojapitiya",
+    "Contact Number": "081-2307270"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "Ex Rikillagaskada",
+    "Contact Number": "051-2072761"
+  },
+  {
+    "District": "Kandy",
+    "Outlet": "Ex Kanthale",
+    "Contact Number": "026-2235023"
+  },
+  {
+    "District": "Kegalle",
+    "Outlet": "FC Warakapola",
+    "Contact Number": "035-2268729"
+  },
+  {
+    "District": "Kegalle",
+    "Outlet": "FC Kegalle",
+    "Contact Number": "035-2230441"
+  },
+  {
+    "District": "Kegalle",
+    "Outlet": "FC Mawanella",
+    "Contact Number": "035-2248008"
+  },
+  {
+    "District": "Kegalle",
+    "Outlet": "FC Kegalle 2",
+    "Contact Number": "035-2222310"
+  },
+  {
+    "District": "Kegalle",
+    "Outlet": "FC Rambukkana",
+    "Contact Number": "035-2262750"
+  },
+  {
+    "District": "Kegalle",
+    "Outlet": "Ex Ambepussa",
+    "Contact Number": "035-2268064"
+  },
+  {
+    "District": "Kegalle",
+    "Outlet": "Ex Rambukkana",
+    "Contact Number": "035-2246160"
+  },
+  {
+    "District": "Kegalle",
+    "Outlet": "Ex Ruwanwella",
+    "Contact Number": "036-2267144"
+  },
+  {
+    "District": "Kilinochchi",
+    "Outlet": "FC Kilinochchi",
+    "Contact Number": "021-2280096"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "FC Kuliyapitiya",
+    "Contact Number": "037-2284627"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "FC Pannala",
+    "Contact Number": "037-2245171"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "FC Narammala",
+    "Contact Number": "037-2249561"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "FC Kurunegala",
+    "Contact Number": "037-2221817"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "FC Kurunegala 2",
+    "Contact Number": "037-2221745"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "FC Wariyapola",
+    "Contact Number": "037-2268222"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "FC Kurunegala 3",
+    "Contact Number": "037-2224751"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "FC Kuliyapitiya 02",
+    "Contact Number": "037-2282718"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "Ex Polgahawela",
+    "Contact Number": "037-2241433"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "Ex Alawwa",
+    "Contact Number": "037-2278872"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "Ex Melsiripura",
+    "Contact Number": "037-2250484"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "Ex Galgamuwa",
+    "Contact Number": "037-2253366"
+  },
+  {
+    "District": "Kurunegala",
+    "Outlet": "Ex Ibbagamuwa",
+    "Contact Number": "037-2057351"
+  },
+  {
+    "District": "Mannar",
+    "Outlet": "Ex Mannar",
+    "Contact Number": "023-2251792"
+  },
+  {
+    "District": "Matale",
+    "Outlet": "FC Matale",
+    "Contact Number": "066-2224710"
+  },
+  {
+    "District": "Matale",
+    "Outlet": "FC Matale 2",
+    "Contact Number": "066-2054615"
+  },
+  {
+    "District": "Matale",
+    "Outlet": "FC Dambulla",
+    "Contact Number": "066-2283240"
+  },
+  {
+    "District": "Matale",
+    "Outlet": "FC Galewela",
+    "Contact Number": "066-2288280"
+  },
+  {
+    "District": "Matale",
+    "Outlet": "FC Dambulla 2",
+    "Contact Number": "066-2284021"
+  },
+  {
+    "District": "Matale",
+    "Outlet": "Ex Matale Rose St",
+    "Contact Number": "066-2226556"
+  },
+  {
+    "District": "Matale",
+    "Outlet": "Ex Palapathwela",
+    "Contact Number": "066-2058288"
+  },
+  {
+    "District": "Matara",
+    "Outlet": "FC Matara",
+    "Contact Number": "041-2229815"
+  },
+  {
+    "District": "Matara",
+    "Outlet": "FC Akuressa",
+    "Contact Number": "041-2283462"
+  },
+  {
+    "District": "Matara",
+    "Outlet": "FC Weligama",
+    "Contact Number": "041-2254580"
+  },
+  {
+    "District": "Matara",
+    "Outlet": "FC Matara 2",
+    "Contact Number": "041-2221026"
+  },
+  {
+    "District": "Matara",
+    "Outlet": "FC Mirissa",
+    "Contact Number": "041-2254992"
+  },
+  {
+    "District": "Matara",
+    "Outlet": "FC Dickwella",
+    "Contact Number": "041-2256293"
+  },
+  {
+    "District": "Monargala",
+    "Outlet": "FC Moneragala",
+    "Contact Number": "055-2276153"
+  },
+  {
+    "District": "Monargala",
+    "Outlet": "FC Wellawaya",
+    "Contact Number": "055-2274146"
+  },
+  {
+    "District": "Mullaitivu",
+    "Outlet": "Ex Mullaittive",
+    "Contact Number": "021-2060211"
+  },
+  {
+    "District": "Nuwaraeliya",
+    "Outlet": "FC Nuwara Eliya",
+    "Contact Number": "052 2222741"
+  },
+  {
+    "District": "Nuwaraeliya",
+    "Outlet": "FC Hatton",
+    "Contact Number": "051 2225566"
+  },
+  {
+    "District": "Polonnaruwa",
+    "Outlet": "FC Kaduruwella",
+    "Contact Number": "027-2224551"
+  },
+  {
+    "District": "Polonnaruwa",
+    "Outlet": "FC Polonnaruwa",
+    "Contact Number": "027 2223303"
+  },
+  {
+    "District": "Puttlam",
+    "Outlet": "FC Chilaw",
+    "Contact Number": "032-2220355"
+  },
+  {
+    "District": "Puttlam",
+    "Outlet": "FC Wennappuwa",
+    "Contact Number": "031-2251090"
+  },
+  {
+    "District": "Puttlam",
+    "Outlet": "FC Dankotuwa",
+    "Contact Number": "031-2261261"
+  },
+  {
+    "District": "Puttlam",
+    "Outlet": "FC Chillaw 2",
+    "Contact Number": "032-2223307"
+  },
+  {
+    "District": "Puttlam",
+    "Outlet": "FC Wennappuwa 02",
+    "Contact Number": "031-2245470"
+  },
+  {
+    "District": "Puttlam",
+    "Outlet": "FC PUTTALAM",
+    "Contact Number": "032-2267575"
+  },
+  {
+    "District": "Puttlam",
+    "Outlet": "Ex Katuneriya",
+    "Contact Number": "031-2256005"
+  },
+  {
+    "District": "Puttlam",
+    "Outlet": "Ex Madampe",
+    "Contact Number": "032-2248188"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "FC Palmadulla",
+    "Contact Number": "045-2274720"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "FC Balangoda",
+    "Contact Number": "045-2288540"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "FC Ratnapura",
+    "Contact Number": "045 2225661"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "FC Rathnapura 2",
+    "Contact Number": "045 2221112"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "FC Eheliyagoda",
+    "Contact Number": "036 2259947"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "FC Ratnapura 03",
+    "Contact Number": "045 2222115"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "FC Embili iti a",
+    "Contact Number": "047-2261545"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "Ex Kuruwita",
+    "Contact Number": "045-2263958"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "Ex Godakawela",
+    "Contact Number": "045-2240022"
+  },
+  {
+    "District": "Rathnapura",
+    "Outlet": "Ex Udawalawa",
+    "Contact Number": "047-2232321"
+  },
+  {
+    "District": "Trincomalee",
+    "Outlet": "FC Trincomalee",
+    "Contact Number": "026-2226001"
+  },
+  {
+    "District": "Vavuniya",
+    "Outlet": "FC Vavuniya",
+    "Contact Number": "024-2224499"
+  }
+]

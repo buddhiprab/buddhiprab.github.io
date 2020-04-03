@@ -48,7 +48,7 @@
           </select>
           <h3>Chart controls</h3>
           <div class="control">
-            <input type="checkbox" id="check_log_y" onchange="setLogYAxis(this.checked)">Log-scale y-axis</input>
+            <input type="checkbox" id="check_log_y">Log-scale y-axis</input>
           </div>
 
           <!-- <div class="control">
@@ -59,7 +59,7 @@
           </div> -->
 
           <div class="control">
-            <button type="button" class="small" id="reset_zoom" onclick="resetZoom()">Zoom to fit data</button>
+            <button type="button" class="small" id="reset_zoom">Zoom to fit data</button>
           </div>
         </center>
 
@@ -69,12 +69,12 @@
         <center>
           <h3>Simulation controls</h3>
           <div class="control full">
-              <input class="control" type="range" id="slider_finalT" onmousemove="updateParameters()" min=5 max=180 step=1 value=7></input>
+              <input class="control" type="range" id="slider_finalT" min=5 max=180 step=1 value=7></input>
               <br><div class="small" id="slider_finalT_text">Predict for 7 days</div>
           </div>
 
           <div class="control full">
-              <input class="control" type="range" id="slider_b1" onmousemove="updateParameters()" min=0 max=1 step=0.01 value=0.6></input>
+              <input class="control" type="range" id="slider_b1" min=0 max=1 step=0.01 value=0.6></input>
               <br><div class="small tooltip">Transmission rate \(\beta_1\) =
                 <span id="slider_b1_value">0.60</span>
                 <span class="tiny tooltiptext">Transmission from mildly infected to susceptible individuals</span>
@@ -82,7 +82,7 @@
           </div>
 
           <div class="control full">
-              <input class="control" type="range" id="slider_b2" onmousemove="updateParameters()" min=0 max=1 step=0.01 value=0.0></input>
+              <input class="control" type="range" id="slider_b2" min=0 max=1 step=0.01 value=0.0></input>
               <br><div class="small tooltip">Transmission rate \(\beta_2\) =
                 <span id="slider_b2_value">0.00</span>
                 <span class="tiny tooltiptext">Transmission from severely infected to susceptible individuals</span>
@@ -90,7 +90,7 @@
           </div>
 
           <div class="control full">
-              <input class="control" type="range" id="slider_b3" onmousemove="updateParameters()" min=0 max=1 step=0.01 value=0.0></input>
+              <input class="control" type="range" id="slider_b3" min=0 max=1 step=0.01 value=0.0></input>
               <br><div class="small tooltip">Transmission rate \(\beta_3\) =
                 <span id="slider_b3_value">0.00</span>
                 <span class="tiny tooltiptext">Transmission from critical to susceptible individuals</span>
@@ -110,13 +110,13 @@
             <div class="control full">
               <center>
                 <span id="container_interv0">
-                  <input class="control intervention" type="range" id="slider_interv0_T" onmousemove="updateParameters(true)" min=1 max=30 step=1 value=18></input>
-                  <span><input type="checkbox" id="check_interv0" onchange="updateInterventions(0)" checked></input></span>
+                  <input class="control intervention" type="range" id="slider_interv0_T" min=1 max=30 step=1 value=18></input>
+                  <span><input type="checkbox" id="check_interv0" checked></input></span>
                   <span class="small">Add intervention on day</span>
                   <span class="small" id="slider_interv0_T_value">18</span>
                   <span class="small"> to change \(\beta_1\) to </span>
                   <span id="slider_interv0_b1_value">0.10</span>
-                  <input class="block" type="range" id="slider_interv0_b1" onmousemove="updateParameters()" min=0 max=1 step=0.01 value=0.10></input>
+                  <input class="block" type="range" id="slider_interv0_b1" min=0 max=1 step=0.01 value=0.10></input>
                 </span>
               </center>
             </div>
@@ -124,13 +124,13 @@
             <div class="control full" style="margin-top:20px;">
               <center>
                 <span id="container_interv1" style="color:grey">
-                  <input class="control intervention" type="range" id="slider_interv1_T" onmousemove="updateParameters(true)" min=1 max=30 step=1 value=30 disabled=true></input>
-                  <span><input type="checkbox" id="check_interv1" onchange="updateInterventions(1)"></input></span>
+                  <input class="control intervention" type="range" id="slider_interv1_T" min=1 max=30 step=1 value=30 disabled=true></input>
+                  <span><input type="checkbox" id="check_interv1"></input></span>
                   <span class="small">Add intervention on day</span>
                   <span class="small" id="slider_interv1_T_value">30</span>
                   <span class="small"> to change \(\beta_1\) to </span>
                   <span id="slider_interv1_b1_value">0.10</span>
-                  <input class="block" type="range" id="slider_interv1_b1" onmousemove="updateParameters()" min=0 max=1 step=0.01 value=0.1 disabled=true></input>
+                  <input class="block" type="range" id="slider_interv1_b1" min=0 max=1 step=0.01 value=0.1 disabled=true></input>
                 </span>
               </center>
             </div>

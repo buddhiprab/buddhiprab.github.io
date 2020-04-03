@@ -81,6 +81,25 @@ $(function () {
         return d;
     }
 
+    $('#check_log_y').change(function() {
+        setLogYAxis(this.checked);
+    });
+    $("#reset_zoom").click(function () {
+        resetZoom();
+    });
+    $("#slider_finalT,#slider_b1,#slider_b2,#slider_b3,#slider_interv0_b1,#slider_interv1_b1").mousemove(function( event ) {
+        updateParameters();
+    });
+    $("#slider_interv0_T,#slider_interv1_T").mousemove(function( event ) {
+        updateParameters(true);
+    });
+    $('#check_interv0').change(function() {
+        updateInterventions(0);
+    });
+    $('#check_interv1').change(function() {
+        updateInterventions(1);
+    });
+
     function formatNumber(num) {
         return num.toString().replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,')
     }

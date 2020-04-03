@@ -36,6 +36,7 @@ $(function () {
         slider_interv1_T.value = slider_interv0_T.max;
         document.getElementById('slider_interv0_T_value').innerHTML = slider_interv0_T.value;
         document.getElementById('slider_interv1_T_value').innerHTML = slider_interv1_T.value;
+        updateParameters();
     }
 
     $("#countries").on('change', function (e) {
